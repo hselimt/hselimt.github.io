@@ -2,6 +2,7 @@ OWNERDOMAIN=hselimt.github.io
 
 ironsrc.com, 676577, DIRECT
 unity.com, 6904868, DIRECT, 96cabb5fbdde37a7
+google.com, pub-2068023415879995, DIRECT, f08c47fec0942fa0
 
 anzu.io, 691e95644e633a6eee2567ee, RESELLER
 appads.in, 106246, RESELLER
