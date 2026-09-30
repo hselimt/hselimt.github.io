@@ -1,4 +1,7 @@
-# Privacy Policy — Through the Maze
+---
+title: Privacy Policy
+description: Through the Maze
+---
 
 **Last updated:** August 2026
 
